@@ -23,3 +23,7 @@ Approach:
 *	Reporting: Compile the analysis and visualizations into a comprehensive report that provides clear insights and actionable recommendations.
 
 By leveraging Excel’s powerful data analysis and visualization capabilities, this project aims to deliver clear and impactful insights into sales performance, customer contributions, and product profitability, enabling informed business decisions.
+
+![Sales data analysis Excel dashboard](https://github.com/user-attachments/assets/03f21382-f706-4a34-b5a2-0b48898cd7fb)
+
+
