@@ -23,11 +23,17 @@ Approach:
 *	Reporting: Compile the analysis and visualizations into a comprehensive report that provides clear insights and actionable recommendations.
 
 By leveraging Excel’s powerful data analysis and visualization capabilities, this project aims to deliver clear and impactful insights into sales performance, customer contributions, and product profitability, enabling informed business decisions.
-# Sales data analysis Excel dashboard.xlsx file screenshots![Customer Count](https://github.com/user-attachments/assets/1b816ff8-6c0c-4b3f-9c1a-c736f3cd7a76)
-![Sales by State](https://github.com/user-attachments/assets/c80d0d4c-ca69-4269-ab2d-af725935cce1)
-![Sales by Months](https://github.com/user-attachments/assets/47a01b13-3584-4954-ba94-458ea85016bb)
-![Profit gain over years](https://github.com/user-attachments/assets/ba79dbe5-3e9b-457c-80f4-dd5dd68ca74e)
-![Sales by Category](https://github.com/user-attachments/assets/0b78b482-3283-442e-b6fe-43360db9d3b9)
+# Sales data analysis Excel dashboard.xlsx file screenshots
 ![Sales data analysis Excel dashboard](https://github.com/user-attachments/assets/03f21382-f706-4a34-b5a2-0b48898cd7fb)
+![Sales by Category](https://github.com/user-attachments/assets/0b78b482-3283-442e-b6fe-43360db9d3b9)
+![Profit gain over years](https://github.com/user-attachments/assets/ba79dbe5-3e9b-457c-80f4-dd5dd68ca74e)
+![Sales by Months](https://github.com/user-attachments/assets/47a01b13-3584-4954-ba94-458ea85016bb)
+![Sales by State](https://github.com/user-attachments/assets/c80d0d4c-ca69-4269-ab2d-af725935cce1)
+![Customer Count](https://github.com/user-attachments/assets/1b816ff8-6c0c-4b3f-9c1a-c736f3cd7a76)
+
+
+
+
+
 
 
